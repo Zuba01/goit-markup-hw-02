@@ -16,9 +16,7 @@ ul,ol {
 button{
     cursor: pointer;
 }
-img {
-    display: block;
-}
+
 
     /* ========= /Common styles =========*/
 
@@ -86,10 +84,12 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+ 
     background: #4d5ae5;
 }
 .btn-one:hover,
 .btn-one:focus {
+
     background: #404bbf;
 }
 /* ========= /Hero Page styles =========*/
