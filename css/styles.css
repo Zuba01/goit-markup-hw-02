@@ -74,12 +74,12 @@ color: #2e2f42;
 .headline-h1 {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.1;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
 }
-.btn {
+.btn-1 {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -88,21 +88,22 @@ color: #2e2f42;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
 }
-.btn:hover {
+.btn-one:hover,
+.btn-one:focus {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #404bbf;
 }
 /* ========= /Hero Page styles =========*/
 
 /* ========= Section 2 styles =========*/
-.headline-h3-s2 {
+.headline-hthree-stwo {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.paragraph-s2 {
+.paragraph-stwo {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -113,16 +114,16 @@ color: #2e2f42;
 
 
 /* ========= Section 3 Our Team styles =========*/
-.headline-h2 {
+.headline-htwo {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
 }
-.headline-h3-s3 {
+.headline-hthree-sthree {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -130,7 +131,7 @@ color: #2e2f42;
     text-align: center;
     color: #2e2f42;
 }
-.paragraph-s3 {
+.paragraph-sthree {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -141,7 +142,7 @@ color: #2e2f42;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background: #fff;
 }
-.section-2 {
+.section-two {
     background-color: #fff;
 }
 
@@ -160,7 +161,7 @@ color: #2e2f42;
 .logo-ground{
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -168,7 +169,7 @@ color: #2e2f42;
 .logo-ground-part{
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
