@@ -16,10 +16,6 @@ ul,ol {
 button{
     cursor: pointer;
 }
-img {
-    display: block;
-}
-
     /* ========= /Common styles =========*/
 
     /* ========= Page Headder styles =========*/
@@ -86,12 +82,11 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
+    cursor: pointer; href=""
 }
 .btn-one:hover,
 .btn-one:focus {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #404bbf;
 }
 /* ========= /Hero Page styles =========*/
@@ -140,7 +135,6 @@ color: #2e2f42;
     color: #434455;
 }
 .li-img-out-team {
-    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background: #fff;
 }
 .section-two {
@@ -153,6 +147,31 @@ color: #2e2f42;
 
 
 /* ========= /Section 3 Our Team styles =========*/
+
+/* ========= Section 4 Our Portfolio =========*/
+.h-op {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        text-align: center;
+        color: #2e2f42;
+}
+.h-four-our-portfolio {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.paragraph-four {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+/* ========= /Section 4 Our Portfolio =========*/
 
 /* ========= Footer styles =========*/
 
